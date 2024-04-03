@@ -9,6 +9,7 @@ Car Animation is a web project that showcases an animated scene featuring a car 
 
 1. **Animated Scene**:
    This screenshot captures the animated car moving on tracks with rotating wheels, set against a dynamic background with a shaking effect.
+   
    ![image](https://github.com/Jyothikayy/web_basic_animatedcar/assets/125146575/46a1c4c0-4dd1-4279-84f5-5143a4c4c846)
 
 
