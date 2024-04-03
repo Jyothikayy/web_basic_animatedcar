@@ -22,4 +22,6 @@ Car Animation is a web project that showcases an animated scene featuring a car 
 
 - HTML5
 - CSS3 (for styling and animations)
-
+  
+##Contributing
+Contributions are welcome! If you'd like to contribute to the Car Animation project, please fork the repository and submit a pull request with your changes.
