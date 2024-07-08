@@ -1,5 +1,3 @@
-# web_basic_animatedcar
-i learnt basic animations through this simple project and here are the details of the project,
 
 # Car Animation
 
